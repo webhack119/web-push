@@ -99,6 +99,6 @@ new Promise((resolve) => {
         else {
             store.data = JSON.parse(data.toString());
         }
-        app.listen(8080, () => logger_1.logger.info('Server started'));
+        app.listen(80, () => logger_1.logger.info('Server started'));
     });
 });
