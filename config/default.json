@@ -1,0 +1,8 @@
+{
+  "gcmKey": " ",
+  "subject": "mailto:webhack119@gmail.com",
+  "vapid": {
+    "public": "BL94OVZeJbI-PDcnnLoU-cC1UY1BIb8NQgg2WlgdqlPbER0kG6FUE0s3Gq5vLAQu6rH7IMCD-uhEuKu5pU6LmEU",
+    "private": "-5WMm7Gcg6wD0UwiXQ6pdN5I7-kBFUc7IAv7KnBlxoE"
+  }
+}
